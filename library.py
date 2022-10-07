@@ -1,9 +1,4 @@
 
-# You are working on a library management system, here are the list books at the library
-
-from turtle import title
-
-
 books = [
     'MY OWN WORDS', 'THE BODY KEEPS THE SCORE', 'STAMPED FROM THE BEGINNING', 'JUST MERCY', 'BORN A CRIME', 'ON TYRANNY', 'HOMO DEUS: A BRIEF HISTORY OF TOMORROW',
     'THE WARMTH OF OTHER SUNS', 'THE NEW JIM CROW', 'SAPIENS', 'BRAIDING SWEETGRASS', 'MY GRANDMOTHER\'S HANDS', 'THE ROAD TO UNFREEDOM'
